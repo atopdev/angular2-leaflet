@@ -1,5 +1,4 @@
 # Angular2-Leaflet-Integration
-------------------------------
 
 This project is a web mapping application based on Angular2 and Leaflet.
 * Initialize map based on user's IP address location
@@ -8,7 +7,6 @@ This project is a web mapping application based on Angular2 and Leaflet.
 * Add/remove markers on the map
 
 ## Prerequisites
-----------------
 
 * [Git](https://git-scm.com/)
 * [Node.js and NPM](https://nodejs.org) >= 0.10.0
@@ -16,7 +14,6 @@ This project is a web mapping application based on Angular2 and Leaflet.
 * [Webpack](http://webpack.github.io/docs/installation.html)
 
 ## Run the application
-----------------------
 
 1. Run `npm install` or `yarn install` to install dependencies.
 
